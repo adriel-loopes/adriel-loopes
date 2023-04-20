@@ -1,7 +1,9 @@
 ## Olá. Eu sou Adriel Lopes!
 
 💻 Cursando Análise e Desenvolvimento de Sistemas
+
 📕 Estou estudando a Linguagem C#
+
 💾 Estou aprendendo Baco de dados (SQL, SQL SERVER, Oracle Cloud)
 
 
