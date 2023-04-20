@@ -31,6 +31,4 @@
 </div>
   
  ![snake animation](https://github.com/adriel-loopes/adriel-loopes/blob/output/github-contribution-grid-snake.svg)
-
- 
-  
+	
