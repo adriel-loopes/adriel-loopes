@@ -1,8 +1,8 @@
 ## Olá. Eu sou Adriel Lopes!
 
 💻 Cursando Análise e Desenvolvimento de Sistemas
-📕 Estou estudando C#
-💾 Baco de dados (SQL, SQL SERVER, Oracle Cloud)
+📕 Estou estudando a Linguagem C#
+💾 Estou aprendendo Baco de dados (SQL, SQL SERVER, Oracle Cloud)
 
 
 <div>
@@ -33,6 +33,3 @@
 ![snake animation](https://github.com/adriel-loopes/adriel-loopes/blob/output/github-contribution-grid-snake.svg)
 	
 </div>
-  
- 
-	
