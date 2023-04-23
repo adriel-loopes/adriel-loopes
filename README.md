@@ -7,10 +7,11 @@
 💾 Estou aprendendo Baco de dados (SQL, SQL SERVER, Oracle Cloud)
 
 
-<div>
+<div align="center">
   <a href="https://github.com/adriel-loopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriel-loopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-loopes&layout=compact&langs_count=16&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriel-loopes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-loopes&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
   
   ##
