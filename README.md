@@ -2,7 +2,7 @@
 
 💻 Cursando Análise e Desenvolvimento de Sistemas
 
-📕 Estou estudando a Linguagem C#, JavaScript, HTML,CSS
+📕 Estou estudando a Linguagem C#, JavaScript, HTML5, CSS3
 
 💾 Estou aprendendo Baco de dados (SQL, SQL SERVER, Oracle Cloud)
 
