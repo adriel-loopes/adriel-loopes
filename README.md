@@ -1,11 +1,10 @@
 ## Olá. Eu sou Adriel Lopes!
 
-💻 Cursando Análise e Desenvolvimento de Sistemas
+💻 Studying Systems Analysis and Development
 
-📕 Estou estudando a Linguagem C#, JavaScript, HTML5, CSS3
+📕 I am studying the C# Language, JavaScript, HTML5, CSS3
 
-💾 Estou aprendendo Baco de dados (SQL, SQL SERVER, Oracle Cloud)
-
+💾 I'm learning Data Base Oracle Database(PL/SQL) /MySQL/SQL Server;
 
 <div align="center">
   <a href="https://github.com/adriel-loopes">
