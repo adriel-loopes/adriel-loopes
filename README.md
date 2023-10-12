@@ -2,7 +2,7 @@
 
 💻 Studying Systems Analysis and Development
 
-📕 I am studying the C#.Net, Language, JavaScript, HTML5, CSS3
+📕 I am studying the C#.Net, JavaScript, HTML5, CSS3
 
 💾 I'm learning Data Base Oracle Database(PL/SQL) /MySQL/SQL Server;
 
