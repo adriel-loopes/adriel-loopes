@@ -15,6 +15,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-loopes&layout=compact&theme=radical)
 
 
+   
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,6 +38,11 @@
   <a href="https://https://www.linkedin.com/in/adriel-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<a href="https://github.com/adriel-loopes/adriel-loopes">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</a>
+
 
 
 
